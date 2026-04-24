@@ -6,6 +6,7 @@ Welcome to my Data Structures and Algorithms journey! In this repository, I am d
 Currently, this repository contains professional implementations of:
 * **Singly Linked List:** Operations like insertion at head, tail, and any position.
 * **Doubly Linked List:** Full implementation with forward and backward pointer logic.
+* **Circular Linked List:** Implementation with circular pointer logic and position-based insertion
 
 ## 🛠️ Tech Stack
 * **Language:** C++
@@ -13,6 +14,5 @@ Currently, this repository contains professional implementations of:
 
 ## 🎯 Future Plans
 I will be adding:
-* Circular Linked Lists
 * Stacks & Queues
 * Trees and Graphs
